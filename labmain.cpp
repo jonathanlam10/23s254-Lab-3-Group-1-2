@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-	ifstream f;
-	f.open(readme);
-	function.readfile(file)
+	ifstream f; //create file var
+	f.open(readme); //define var with file
+	function.readfile(f) //use function to read and display file
 }
